@@ -3,12 +3,10 @@ Cristiano Gurgel de Castro
 ThinkBayes exe 2.1
 """
 
-from thinkbayes import Suite
-
-class Bowl(object)
-"""
-A class that representes a bowl of cookues
-"""
+class Bowl(object):
+    """
+    A class that representes a bowl of cookues
+    """
 
     def __init__(self, initial):
         """
@@ -47,24 +45,9 @@ A class that representes a bowl of cookues
         Returns:
             the number of cookies in the bowl
         """
-        return sum(self.cookies.intervalues())
+        return sum(self.cookies.itervalues())
 
-
-
-class Cookie(Suite):
-"""
-A classe que representa uma probabilidadde
-"""
-    
-    def Likehood(self, data, hypo)
-        """
-        Define a
-        """
-        # TODO: implmentar esse método
-        raise UnimplementedMethodException()
-
-def main():
-    raise UnimplementedMethodException()
-    
+    def print_state(self):
+        print self.cookies 
 
 
