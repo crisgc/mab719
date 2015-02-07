@@ -52,3 +52,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Dados
+*.dat.gz
+*.zip
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~

@@ -90,3 +90,15 @@ Os primeiros bebês nascem mais tarde, mas pouco (apenas 13h a mais de espera).
 No entanto, no caso de atraso, geralmente os primeiros bebês atrasam em mais
 tempo do que os outros, o que pode levar a percepção de que os primeiros bebês
 nascem mais tarde.
+
+# ThinkStats Cap6 Exercícios
+
+## Exercício 6.1
+
+Implementado no arquivo skewness.py. A função Skewness calcula o resultado da
+assimetria como aproximadamente -2.9. O que está de acordo com o exibido no
+histograma, já que a curva se estende mais "à esquerda" da média. A moda da
+curva são 39 semanas
+
+
+
