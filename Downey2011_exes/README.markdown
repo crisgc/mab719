@@ -100,5 +100,29 @@ assimetria como aproximadamente -2.9. O que está de acordo com o exibido no
 histograma, já que a curva se estende mais "à esquerda" da média. A moda da
 curva são 39 semanas
 
+# ThinkStats Cap 7 Exercícios
+
+## Exercício 7.5
+
+Tem-se duas amostras de sangue na cena do crime
+
+AB
+: cuja probabilidade na população é 1%
+
+O
+: cuja probabilidade na população é 60 %
+
+Logo, analisa-se duas probabilidades
+
+- A probabilidade da evidência dado que o sangue é mesmo do suspeito (P(E|H))
+- A probabilidade da evidência dado que o sangue não é do suspeito (P(E|H0))
+
+- P(E|H) = P(sangue é AB), já sabe-se que o sangue do suspeito é O
+- P(E|H0) = 2 P(sangue é AB) P(sangue é O), observa-se que é um caso de
+  distribuição binomial
+
+Logo a razão entre as probabilidades é P(E|H)/P(E|H0) = 1 / (2P(sangue é O)) = 1
+/ 1.2 = 0.833. Logo, ao contrário do que podería-se supor, isso fornece
+evidência de que não é o sangue do suspeito na cena do crime
 
 

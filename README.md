@@ -4,5 +4,5 @@ Repositório para a disciplina de estatística
 
 # Exercícios
 
-ThinkStats: Downey_2011
-ThinkBayes: Downeu_2012a
+- ThinkStats: Downey\_2011
+- ThinkBayes: Downeu\_2012a
